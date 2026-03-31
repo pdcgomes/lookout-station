@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lookout.app/images/logo.png" alt="Lookout Station" width="128" height="128">
+  <img src="https://lookoutapp.ai/images/logo.png" alt="Lookout Station" width="128" height="128">
 </p>
 
 <h1 align="center">Lookout Station</h1>
